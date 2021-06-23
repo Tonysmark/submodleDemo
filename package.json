@@ -1,0 +1,8 @@
+{
+  "name": "submodleDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Tonysmark/submodleDemo.git",
+  "author": "tony <mjyuyu@qq.com>",
+  "license": "MIT"
+}
